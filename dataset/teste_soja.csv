@@ -1,0 +1,5 @@
+﻿dataId,Regiao,ano_agricola,uf,produto,area_plantada_mil_ha,producao_mil_t,produtividade_mil_ha_mil_t,temperatura,chuvas
+81,Nordeste,2020,AL,SOJA,1,4,4000,25,989
+115,Centro,2017,DF,SOJA,70,242,3457,24.2,2322
+210,Norte,2018,AM,SOJA,2,3,1500,24.6,1694
+222,Norte,2019,TO,SOJA,1029,2932,2849,26.8,1696
